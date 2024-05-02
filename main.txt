@@ -20,3 +20,5 @@
 ||*taobao.com^
 ||*alibaba.com^
 ||*alipay.com^
+||*sspai.com^
+||*36kr.com
