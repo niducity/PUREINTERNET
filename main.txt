@@ -3,6 +3,7 @@
 ||*people.cn^
 ||*news.cn
 ||*cctv.com^
+||*chinawriter.com.cn^
 
 ||*qq.com^
 ||*tencent.com*^
@@ -22,3 +23,4 @@
 ||*alipay.com^
 ||*sspai.com^
 ||*36kr.com
+||*163.com^
