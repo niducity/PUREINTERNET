@@ -13,5 +13,4 @@
 ||*sina.com.cn^
 ||*sohu.com^
 ||*sogou.com^
-||*baidu.com^
 ||*sspai.com^
