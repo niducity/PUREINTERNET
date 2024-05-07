@@ -16,7 +16,6 @@
 ||*sina.com.cn^
 ||*sohu.com^
 ||*sogou.com^
-||*baidu.com^
 ||*jd.com^
 ||*taobao.com^
 ||*alibaba.com^
