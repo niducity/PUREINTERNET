@@ -19,7 +19,6 @@
 ||*jd.com^
 ||*taobao.com^
 ||*alibaba.com^
-||*sspai.com^
 ||*36kr.com
 ||*163.com^
 ||*zhihu.com^
