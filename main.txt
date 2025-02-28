@@ -21,6 +21,5 @@
 ||*alibaba.com^
 ||*36kr.com
 ||*163.com^
-||*zhihu.com^
 ||*v2ex.com^
 ||*baijiahao.baidu.com^
