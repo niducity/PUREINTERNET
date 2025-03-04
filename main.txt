@@ -23,3 +23,4 @@
 ||*163.com^
 ||*v2ex.com^
 ||*baijiahao.baidu.com^
+||*.ruanyifeng.com^
